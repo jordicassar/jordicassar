@@ -3,6 +3,7 @@
 **Software Engineer @ [SocialSparkApp](https://github.com/jordicassar)** · Rising Computer Science & Business Information Systems Junior @ Eastern Connecticut State University
 
 I build full-stack mobile and web apps — currently shipping a bar/venue discovery platform with **2,000+ downloads**.
+Link: https://apps.apple.com/us/app/social-spark-spark-your-night/id6748097484
 
 ---
 
