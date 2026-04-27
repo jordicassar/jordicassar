@@ -1,6 +1,6 @@
 # Hey, I'm Jordi 👋
 
-**Software Engineer @ [SocialSparkApp](https://github.com/jordicassar)** · CS & Business Information Systems @ Eastern Connecticut State University
+**Software Engineer @ [SocialSparkApp](https://github.com/jordicassar)** · Computer Science & Business Information Systems @ Eastern Connecticut State University
 
 I build full-stack mobile and web apps — currently shipping a bar/venue discovery platform with **2,000+ downloads**.
 
@@ -8,23 +8,23 @@ I build full-stack mobile and web apps — currently shipping a bar/venue discov
 
 ### What I work with
 
-**Languages:** TypeScript · Python · Java · SQL  
+**Languages:** TypeScript · Python · Java · SQL · JavaScript · HTML · CSS
 **Frontend:** React Native · Expo · Next.js  
-**Backend & Cloud:** AWS (Lambda, API Gateway, Cognito, S3, RDS, DynamoDB) · Express · PostgreSQL  
-**Tools:** Git · GitHub Actions · CI/CD
+**Backend & Cloud:** AWS (Lambda, API Gateway, Cognito, S3, RDS, DynamoDB, Secrets Manager, EventBridge, CloudWatch, IAM, and RDS) · Express · PostgreSQL · RESTful APIs
+**Tools:** Git · GitHub Actions · CI/CD · DataGrip · VS Code · IntelliJ · Jira · Figma · BestTime · Mapbox · Prisma
 
 ---
 
 ### What I'm up to
 
-- 🔧 Building and scaling **SocialSparkApp** — React Native + AWS
+- 🔧 Building and scaling **SocialSparkApp** — React Native · Python · TypeScript · AWS
 - ⚽ Developing **MatchMind** — a full-stack football prediction app (Next.js + Express + Prisma)
-- 🎓 Leading a **15-member coding club** on campus
+- 🎓 Leading a **6+ member coding club** on campus
 - 📚 Working through **NeetCode 150** for DSA
 
 ---
 
 ### Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jordicassar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordi-cassar-501b51328/?skipRedirect=true)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jordicassar101@gmail.com)
