@@ -18,7 +18,7 @@ I build full-stack mobile and web apps — currently shipping a bar/venue discov
 ### What I'm up to
 
 - 🔧 Building and scaling **SocialSparkApp** — React Native · Python · TypeScript · AWS
-- ⚽ Developing **MatchMind** — a full-stack football prediction app (Next.js + Express + Prisma)
+- ⚽ Developing **MatchMind** — a full-stack football prediction app (Next.js + Express + Prisma + TypeScript)
 - 🎓 Leading a **a coding club** on campus
 - 📚 Working through **NeetCode 150** for DSA
 
