@@ -10,7 +10,7 @@ I build full-stack mobile and web apps, currently shipping a bar/venue discovery
 ### What I work with
 **Languages:** Python · TypeScript · Java · JavaScript · HTML · CSS · SQL  
 **Frontend:** React Native · React · Expo · Next.js · TailwindCSS  
-**Backend & Cloud:** AWS (Lambda, API Gateway, Cognito, S3, RDS, DynamoDB, Secrets Manager, EventBridge, CloudWatch, IAM, and RDS) · Express · PostgreSQL · Node.js · RESTful APIs  
+**Backend & Cloud:** AWS (Lambda, API Gateway, Cognito, S3, RDS, DynamoDB, Secrets Manager, EventBridge, CloudWatch, IAM, and RDS) · Express · PostgreSQL · Node.js · RESTful APIs · Vercel · Neon 
 **Tools:** Git · GitHub Actions · CI/CD · DataGrip · VS Code · IntelliJ · Jira · Figma · BestTime · Mapbox · Prisma
 
 ---
